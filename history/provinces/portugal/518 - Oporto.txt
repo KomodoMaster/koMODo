@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = BSQ
+controller = BSQ
+add_core = BSQ
 trade_goods = fruit
 life_rating = 35
 naval_base = 1
