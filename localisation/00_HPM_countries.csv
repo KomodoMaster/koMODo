@@ -699,6 +699,14 @@ ALT_anarcho_liberal;The Libertains;Faction radicale;Die radikale Fraktion;;;;;;;
 ALT_socialist;The Socialists;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;x
 ALT_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;x
 ALT_fascist;The Mongolian Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;x
+AND;Al-Andalus;;;;;;;;;;;;;x
+AND_ADJ;Andalusian;;;;;;;;;;;;;x
+AND_absolute_monarchy;Caliphate of Cordoba;;;;;;;;;;;;;x
+AND_prussian_constitutionalism;Caliphate of Cordoba;;;;;;;;;;;;;x
+AND_hms_goverment;Caliphate of Cordoba;;;;;;;;;;;;;x
+AND_democracy;Republic of Andalusia;;;;;;;;;;;;;x
+AND_proletarian_dictatorship;Andalusian People's Republic;;;;;;;;;;;;;x
+AND_fascist_dictatorship;Al-Andalus;;;;;;;;;;;;;x
 ANG;Angola;;;;;;;;;;;;x
 ANG_ADJ;Angolan;;;;;;;;;;;;x
 ANG_liberal;Liberal Democratic Party;;;;;;;;;;;;x
@@ -861,6 +869,11 @@ BRT_conservative;Strollad Mirour;;;;;;;;;;;;;x
 BRU_ADJ;Bruneian;;;;;;;;;;;;;x
 BSQ;Basque Country;;;;;;;;;;;;;x
 BSQ_ADJ;Basque;;;;;;;;;;;;;x
+BSQ_absolute_monarchy;Kingdom of Navarra;;;;;;;;;;;;;x
+BSQ_prussian_constitutionalism;Kingdom of Navarra;;;;;;;;;;;;;x
+BSQ_hms_goverment;Kingdom of Navarra;;;;;;;;;;;;;x
+BSQ_democracy;Euskaldunen Errepublika;;;;;;;;;;;;;x
+BSQ_proleterian_dictatorship;Basque People's Union;;;;;;;;;;;;;x
 BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
 BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;x
 BSQ_liberal;Alderdi Abertzale Errepublikanoa;;;;;;;;;;;;;x

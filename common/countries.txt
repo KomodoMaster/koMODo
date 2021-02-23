@@ -3,6 +3,9 @@
 # Special countries...
 REB 	= 	"countries/rebels.txt"
 
+#koMODo
+AND     ="countries/Al-Andalus
+
 ##HPM
 PNK		="countries/Pontianak.txt"
 GHN		="countries/Ghana.txt"
