@@ -403,6 +403,21 @@ iberian = {
 		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
 		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
 	}
+	andalusian = {
+	    color = {139 183 0}
+		first_names = { 
+		Aban Hamid Razin Abbad	Hammad	Ridwan Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Darras Fadl Galib
+		Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub 	Makki Mansur Mas'ud Muhammad Mutarrif Nizar Rabi Qasim Ridwan 
+		Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Tammam Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
+		Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Darras Garsiyya Fadl Darras Ayshun Amr Hajjaj 
+		}
+		
+		last_names = { 
+			Elsherbiny  Elshinnawy Abdel-Dayem Elhadidy Adib Bassili Aboul-Nour Elbassiouny Aoul-Enein Elsaeid Elhousseiny Khattab Gouda Elbordiny Arafa 
+			Elsafty Elshorbagy Hasheesh Halim Tawakol Elfar Elbadry Khalil Shahin Elserafie Hakim Kira Amer Bakhoum Elmanawy Deyab Derbala Elhadidi Elbenhawy 
+			Negm Nakhla Koura Elshazly Soliman Elkhashab Elkady Hindawy Zeitoun Elgammal 
+		} 
+    }
 }
 
 french = {
