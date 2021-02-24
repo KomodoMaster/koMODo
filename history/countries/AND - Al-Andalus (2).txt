@@ -1,5 +1,5 @@
 capital = 487
-primary_culture = Andalusian
+primary_culture = andalusian
 religion = sunni
 government = absolute_monarchy
 plurality = 10
