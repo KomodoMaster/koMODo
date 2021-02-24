@@ -6,7 +6,7 @@ plurality = 0.1
 nationalvalue = nv_liberty
 literacy = 0.48
 civilized = yes
-
+non_state_culture_literacy = 0.30
 
 # Political reforms
 slavery = no_slavery
