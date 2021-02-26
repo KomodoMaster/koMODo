@@ -1,6 +1,6 @@
-owner = SIC
-controller = SIC
-add_core = SIC
+owner = MLS
+controller = MLS
+add_core = MLS
 add_core = ITA
 trade_goods = cotton
 naval_base = 1

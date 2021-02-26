@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = MLS
+controller = MLS
+add_core = MLS
 add_core = ALB
 trade_goods = cattle
 life_rating = 35

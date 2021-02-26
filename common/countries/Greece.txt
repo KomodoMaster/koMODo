@@ -1,4 +1,7 @@
 color = { 122  180  210 }
+absolute_monarchy = { 183 162 66 }
+prussian_constitutionalism = { 183 162 66 }
+hms_government = [ 183 162 66 }
 graphical_culture = EuropeanGC
 
 party = {

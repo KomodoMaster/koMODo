@@ -1,6 +1,6 @@
-owner = SRD
-controller = SRD
-add_core = SRD
+owner = BSQ
+controller = BSQ
+add_core = BSQ
 
 trade_goods = cattle
 life_rating = 35

@@ -705,7 +705,7 @@ AND;Al-Andalus;;;;;;;;;;;;;x
 AND_ADJ;Andalusian;;;;;;;;;;;;;x
 AND_absolute_monarchy;Caliphate of Cordoba;;;;;;;;;;;;;x
 AND_prussian_constitutionalism;Caliphate of Cordoba;;;;;;;;;;;;;x
-AND_hms_goverment;Caliphate of Cordoba;;;;;;;;;;;;;x
+AND_hms_government;Caliphate of Cordoba;;;;;;;;;;;;;x
 AND_democracy;Republic of Andalusia;;;;;;;;;;;;;x
 AND_proletarian_dictatorship;Andalusian People's Republic;;;;;;;;;;;;;x
 AND_fascist_dictatorship;Al-Andalus;;;;;;;;;;;;;x
@@ -873,7 +873,7 @@ BSQ;Basque Country;;;;;;;;;;;;;x
 BSQ_ADJ;Basque;;;;;;;;;;;;;x
 BSQ_absolute_monarchy;Kingdom of Navarra;;;;;;;;;;;;;x
 BSQ_prussian_constitutionalism;Kingdom of Navarra;;;;;;;;;;;;;x
-BSQ_hms_goverment;Kingdom of Navarra;;;;;;;;;;;;;x
+BSQ_hms_government;Kingdom of Navarra;;;;;;;;;;;;;x
 BSQ_democracy;Euskaldunen Errepublika;;;;;;;;;;;;;x
 BSQ_proleterian_dictatorship;Basque People's Union;;;;;;;;;;;;;x
 BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
@@ -3237,3 +3237,6 @@ TIG_socialist;Tigrayan People's Liberation Front;Front de libération du Tigrayie
 TIG_communist;Tigrayan Communist Party;Tigrayienne Parti communiste;Tigrayan Kommunistischen Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 TIG_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;;x;;;;;;;;;;;;;;
 UTI_ADJ;Territories Exchange;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GRE_absolute_monarchy;Latin Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GRE_prussian_consitutionalism;Latin Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GRE_hms_government;Latin Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
