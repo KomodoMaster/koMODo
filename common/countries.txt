@@ -5,6 +5,7 @@ REB 	= "countries/rebels.txt"
 
 #koMODo
 AND		="countries/Al-Andalus"
+MLS		="countries/Mamlakat Al-Shams"
 
 ##HPM
 PNK		="countries/Pontianak.txt"
