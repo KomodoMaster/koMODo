@@ -1725,6 +1725,11 @@ NOR_fascist;Nationalists;;;;;;;;;;;;x
 NOR_fascist_2;Nasjonal Samling;;;;;;;;;;;;x
 CZH_fascist;Vlajka;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 SLV_fascist;Slovenská Ludová Strana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+SLV;Duchy of Nitra;;;;;;;;;;;;;;x
+SLV_ADJ;Nitran;;;;;;;;;;;;;;;x
+SLV_absolute_monarchy;Duchy of Nitra;;;;;;;;;;;;;x
+SLV_prussian_constitutionalism;Duchy of Nitra;;;;;;;;;;;;;;x
+SLV_hms_government;Duchy of Nitra;;;;;;;;;;;;;;x
 NOV;Nova Scotia;Nouvelle-Écosse;Neuschottland;;;;;;;;;;;x
 NOV_ADJ;Nova Scotian;Nouvelle-Écossais;Neuschottisch;;;;;;;;;;;x
 NOV_liberal;Liberal Party;Parti libéral;Liberale Partei;;;;;;;;;;;x
@@ -3240,3 +3245,43 @@ UTI_ADJ;Territories Exchange;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GRE_absolute_monarchy;Latin Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GRE_prussian_consitutionalism;Latin Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
 GRE_hms_government;Latin Empire;;;;;;;;;;;;x;;;;;;;;;;;;;;
+BRB;Brabant;;;;;;;;;;;;;;;x
+BRB_ADJ;Brabantian;;;;;;;;;;;;;;;x
+BRB_absolute_monarchy;United Duchy of Brabant;;;;;;;;;;;;;;;x
+BRB_prussian_constitutionalism;United Duchy of Brabant;;;;;;;;;;;;;;x
+BRB_hms_government;United Duchy of Brabant;;;;;;;;;;;;;;;x
+BRB_democracy;Brabant Republic;;;;;;;;;;;;;;;;;;x
+BRB_proleterian_dictatorship;Brabantian State;;;;;;;;;;;;;;;x
+BRB_fascist_dictatorship;Groter Brabant;;;;;;;;;;;;;;;;x
+ANT;Antwerpen;;;;;;;;;;;;;;x
+ANT;Antwerpian;;;;;;;;;;;;;;x
+ANT_absolute_monarchy;County of Antwerp;;;;;;;;;;;;;x
+ANT_prussian_constitutionalism;County of Antwerp;;;;;;;;;;;;;;x
+ANT_hms_government;County of Antwerp;;;;;;;;;;;;;x
+ANT_democracy;Principality of Antwerp;;;;;;;;;;;;;;x
+ANT_proleterian_dictatorship;Community of Antwerp;;;;;;;;;;;;;;x
+ANT_fascist_dictatorship;Antwerpen;;;;;;;;;;;;;;;x
+HLL;Holland;;;;;;;;;;x
+HLL_ADJ;Hollandish;;;;;;;;;;;x
+HLL_absolute_monarchy;Hollands Kingdom;;;;;;;;;;;;;x
+HLL_prussian_constitutionalism;Hollands Kingdom;;;;;;;;;;;;;;;;x
+HLL_hms_government;Hollands Kingdom;;;;;;;;;;;;;;;;;x
+HLL_democracy;Republic of Holland;;;;;;;;;;;;;;x
+HLL_proleterian_dictatorship;Hollandish People's State;;;;;;;;;;;;;;;x
+HLL_fascist_dictatorship;The Absolute State of Holland;;;;;;;;;;;;;;;;;x
+ZEE;Zeeland;;;;;;;;;;;;;;;;;;x
+ZEE;Zeelander;;;;;;;;;;;;;;;;;;;x
+ZEE_absolute_monarchy;Kingdom of Zeeland;;;;;;;;;;;;;;;;x
+ZEE_prussian_constitutionalism;Kingdom of Zeeland;;;;;;;;;;;;;x
+ZEE_hms_government;Kingdom of Zeeland;;;;;;;;;;;;;;x
+ZEE_democracy;Republic of Zeeland;;;;;;;;;;;;;;x
+ZEE_proleterian_dictatorship;Zeelander_people's Union;;;;;;;;;;;;;;;;x
+ZEE_fascist_dictatorship;Zeelander State;;;;;;;;;;;;;;;;;;;;;;x
+FRI;Frisia;;;;;;;;;;;;;;;;;;x
+FRI_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;x
+FRI_absolute_monarchy;Frisian Kingdom;;;;;;;;;;;;;;x
+FRI_prussian_constitutionalism;Frisian Kingdom;;;;;;;;;;;;;;x
+FRI_hms_government;Frisian Kingdom;;;;;;;;;;;;;;;x
+FRI_democracy;Republic of The Frisians;;;;;;;;;;;;;;;x
+FRI_proleterian_dictatorship;Frisian People's Republic;;;;;;;;;;;;;;x
+FRI_fascist_dictatorship;Great Frisian State;;;;;;;;;;;;;;;;;x

@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = HLL
+controller = HLL
+add_core = HLL
 trade_goods = fish
 life_rating = 35
 1861.1.1 = { 

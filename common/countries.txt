@@ -3,9 +3,21 @@
 # Special countries...
 REB 	= "countries/rebels.txt"
 
-#koMODo
+##koMODo
+
+#Muslim things
 AND		="countries/Al-Andalus.txt"
 MLS		="countries/Mamlakat Al-Shams.txt"
+
+#Benelux for koMODo
+LBG		="countries/Limburg.txt"
+BRB     ="countries/Brabant.txt"
+ANT     ="countries/Antwerpen.txt"
+FLA		="countries/Flanders.txt"
+HLL     ="countries/Holland.txt"
+ZEE     ="countries/Zeeland.txt"
+FRI     ="countries/Frisia.txt"
+
 
 ##HPM
 PNK		="countries/Pontianak.txt"
@@ -39,7 +51,6 @@ BNB		="countries/Baban.txt"
 MKN		="countries/Mukriyan.txt"
 BHT		="countries/Bohtan.txt"
 SRN		="countries/Soran.txt"
-LBG		="countries/Limburg.txt"
 PNB		="countries/Pernambuco.txt"
 FIU		="countries/Fiume.txt"
 SYC		="countries/Sicily.txt"
@@ -323,7 +334,6 @@ SWE		= "countries/Sweden.txt"
 # Western Europe
 BEL		= "countries/Belgium.txt"
 CAT		= "countries/Catalonia.txt"
-FLA		= "countries/Flanders.txt"
 IRE		= "countries/Ireland.txt"
 NET		= "countries/Netherlands.txt"
 POR		= "countries/Portugal.txt"
