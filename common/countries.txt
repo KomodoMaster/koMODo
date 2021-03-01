@@ -17,6 +17,9 @@ FLA		="countries/Flanders.txt"
 HLL     ="countries/Holland.txt"
 ZEE     ="countries/Zeeland.txt"
 FRI     ="countries/Frisia.txt"
+THP     ="countries/The Principality.txt"
+EUP     ="countries/Eupen-Malmedy.txt"
+HAI     ="countries/Hainaut.txt
 
 
 ##HPM
