@@ -5,6 +5,11 @@ REB 	= "countries/rebels.txt"
 
 ##koMODo
 
+#Eastern Europe
+TEU		="countries/Teutonic Order.txt"
+
+
+
 #Muslim things
 AND		="countries/Al-Andalus.txt"
 MLS		="countries/Mamlakat Al-Shams.txt"
