@@ -3254,7 +3254,7 @@ BRB_democracy;Brabant Republic;;;;;;;;;;;;;;;;;;x
 BRB_proleterian_dictatorship;Brabantian State;;;;;;;;;;;;;;;x
 BRB_fascist_dictatorship;Groter Brabant;;;;;;;;;;;;;;;;x
 ANT;Antwerpen;;;;;;;;;;;;;;x
-ANT;Antwerpian;;;;;;;;;;;;;;x
+ANT_ADJ;Antwerpian;;;;;;;;;;;;;;x
 ANT_absolute_monarchy;County of Antwerp;;;;;;;;;;;;;x
 ANT_prussian_constitutionalism;County of Antwerp;;;;;;;;;;;;;;x
 ANT_hms_government;County of Antwerp;;;;;;;;;;;;;x
@@ -3270,7 +3270,7 @@ HLL_democracy;Republic of Holland;;;;;;;;;;;;;;x
 HLL_proleterian_dictatorship;Hollandish People's State;;;;;;;;;;;;;;;x
 HLL_fascist_dictatorship;The Absolute State of Holland;;;;;;;;;;;;;;;;;x
 ZEE;Zeeland;;;;;;;;;;;;;;;;;;x
-ZEE;Zeelander;;;;;;;;;;;;;;;;;;;x
+ZEE_ADJ;Zeelander;;;;;;;;;;;;;;;;;;;x
 ZEE_absolute_monarchy;Kingdom of Zeeland;;;;;;;;;;;;;;;;x
 ZEE_prussian_constitutionalism;Kingdom of Zeeland;;;;;;;;;;;;;x
 ZEE_hms_government;Kingdom of Zeeland;;;;;;;;;;;;;;x
@@ -3285,3 +3285,20 @@ FRI_hms_government;Frisian Kingdom;;;;;;;;;;;;;;;x
 FRI_democracy;Republic of The Frisians;;;;;;;;;;;;;;;x
 FRI_proleterian_dictatorship;Frisian People's Republic;;;;;;;;;;;;;;x
 FRI_fascist_dictatorship;Great Frisian State;;;;;;;;;;;;;;;;;x
+THP;The Principality;;;;;;;;;;;;;;;;;x
+THP_ADJ;Liegian;;;;;;;;;;;;;;;;;;x
+THP_absolute_monarchy;Duchy of Liege;;;;;;;;;;;;;;;;x
+THP_prussian_constitutionalism;Duchy of Liege;;;;;;;;;;;;;;x
+THP_hms_government:Duchy of Liege;;;;;;;;;;;;x
+THP_democracy;The Principality;;;;;;;;;;;;x
+EUP;Eupen-Malmedy;;;;;;;;;;;;;;;;;x
+EUP_ADJ;Eupan-Malmedian;;;;;;;;;;;;;;;;x
+HIN;Hainaut;;;;;;;;;;;;;;;;;;;;x
+HIN_ADJ;Hainautian;;;;;;;;;;;;;;;;;;;;x
+HIN_absolute_monarchy;Duchy of Hainaut;;;;;;;;;;;;;;;;;;;;x
+HIN_prussian_constitutionalism;Duchy of Hainaut;;;;;;;;;;;;;;;;;;;;x
+HIN_hms_government;Duchy of Hainaut;;;;;;;;;;;;;;;;;x
+TEU;Teutonic Order;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TEU_ADJ;Teutonic;;;;;;;;;;;;;;;;;x;;;;;
+
+

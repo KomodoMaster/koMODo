@@ -75,4 +75,4 @@ mechanical_production = 1
 hot_blast = 1
 basic_chemistry = 1
 
-#Inventions
+oob = "LBG_oob.txt"

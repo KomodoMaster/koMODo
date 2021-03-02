@@ -8,8 +8,6 @@ REB 	= "countries/rebels.txt"
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"
 
-
-
 #Muslim things
 AND		="countries/Al-Andalus.txt"
 MLS		="countries/Mamlakat Al-Shams.txt"
@@ -24,7 +22,7 @@ ZEE     ="countries/Zeeland.txt"
 FRI     ="countries/Frisia.txt"
 THP     ="countries/The Principality.txt"
 EUP     ="countries/Eupen-Malmedy.txt"
-HAI     ="countries/Hainaut.txt
+HIN     ="countries/Hainaut.txt"
 
 
 ##HPM

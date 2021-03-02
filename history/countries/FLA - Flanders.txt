@@ -47,3 +47,4 @@ upper_house = {
 	communist = 0
 }
 
+obb = "FLA_obb.txt"
