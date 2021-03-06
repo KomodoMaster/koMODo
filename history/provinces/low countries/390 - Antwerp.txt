@@ -1,6 +1,6 @@
-owner = ANT
-controller = ANT
-add_core = ANT
+owner = ANW
+controller = ANW
+add_core = ANW
 trade_goods = cattle
 life_rating = 35
 naval_base = 1

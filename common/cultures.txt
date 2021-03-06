@@ -406,10 +406,10 @@ iberian = {
 	andalusian = {
 	    color = {139 183 0}
 		first_names = { 
-			Aban Hamid Razin Abbad	Hammad	Ridwan Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Darras Fadl Galib
-			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Mutarrif Nizar Rabi Qasim Ridwan 
-			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Tammam Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
-			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Darras Garsiyya Fadl Darras Ayshun Amr Hajjaj 
+			Aban Razin Abbad Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Fadl Galib
+			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Nizar Rabi Qasim Ridwan 
+			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
+			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Garsiyya Ayshun Amr Hajjaj 
 		}
 		
 		last_names = { 
@@ -1057,10 +1057,10 @@ arab = {
 iitaliin = {
 	 color = {139 4 255}
 		first_names = { 
-			Aban Hamid Razin Abbad	Hammad	Ridwan Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Darras Fadl Galib
-			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Mutarrif Nizar Rabi Qasim Ridwan 
-			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Tammam Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
-			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Darras Garsiyya Fadl Darras Ayshun Amr Hajjaj 
+			Aban Razin Abbad Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Galib
+			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Nizar Rabi Qasim Ridwan 
+			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
+			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Garsiyya Fadl Ayshun Amr Hajjaj 
 		}
 		
 		last_names = { 

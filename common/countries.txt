@@ -15,7 +15,7 @@ MLS		="countries/Mamlakat Al-Shams.txt"
 #Benelux for koMODo
 LBG		="countries/Limburg.txt"
 BRB     ="countries/Brabant.txt"
-ANT     ="countries/Antwerpen.txt"
+ANW     ="countries/Antwerpen.txt"
 FLA		="countries/Flanders.txt"
 HLL     ="countries/Holland.txt"
 ZEE     ="countries/Zeeland.txt"

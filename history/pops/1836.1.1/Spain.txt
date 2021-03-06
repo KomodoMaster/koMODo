@@ -1909,49 +1909,49 @@
 513 = {
 	aristocrats = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 2750
 	}
 
 	officers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 450
 	}
 
 	bureaucrats = {
 		culture = andalusian
-		religion = andalusian
+		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 950
 	}
 
 	artisans = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 3000
 	}
 
 	farmers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 72850
 	}
 }
@@ -1959,37 +1959,37 @@
 514 = {
 	aristocrats = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 2700
 	}
 
 	clergymen = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 900
 	}
 
 	artisans = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 7500
 	}
 
 	soldiers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 78400
 	}
 }
@@ -1997,31 +1997,31 @@
 515 = {
 	aristocrats = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 1650
 	}
 
 	clergymen = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 550
 	}
 
 	artisans = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
 		culture = andalusian
-		religion = catholic
+		religion = sunni
 		size = 52600
 	}
 }

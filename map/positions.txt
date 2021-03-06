@@ -30012,11 +30012,6 @@
 
 # Deutsch Krone
 692 = {
-    unit = {
-        x = 3071.000000
-        y = 1698.000000
-    }
-
     text_position = {
         x = 3066.800049
         y = 1694.800049
@@ -30024,19 +30019,24 @@
 
     text_rotation = 6.283185
     text_scale = 1.800000
-    building_construction = {
-        x = 3076.300049
-        y = 1705.000000
-    }
-
-    military_construction = {
-        x = 3066.000000
-        y = 1697.000000
+    unit = {
+        x = 3071.000000
+        y = 1698.000000
     }
 
     factory = {
         x = 3073.899902
         y = 1708.000000
+    }
+
+    building_construction = {
+        x = 3064.200000
+        y = 1699.200000
+    }
+
+    military_construction = {
+        x = 3066.000000
+        y = 1697.000000
     }
 
     building_position = {
@@ -126130,4 +126130,48 @@
     }
 
     text_scale = 0.40000
+}
+
+# Konitz
+3323 = {
+    text_position = {
+        x = 3074.175000
+        y = 1704.150000
+    }
+
+    text_rotation = 6.283185
+    text_scale = 1.800000
+    unit = {
+        x = 3072.675000
+        y = 1706.450000
+    }
+
+    factory = {
+        x = 3076.650000
+        y = 1707.050000
+    }
+
+    building_construction = {
+        x = 3072.600000
+        y = 1703.750000
+    }
+
+    military_construction = {
+        x = 3075.300000
+        y = 1702.800000
+    }
+
+    building_position = {
+        fort = {
+            x = 3073.100000
+            y = 1702.100000
+        }
+
+        railroad = {
+            x = 3074.150000
+            y = 1706.800000
+        }
+
+    }
+
 }

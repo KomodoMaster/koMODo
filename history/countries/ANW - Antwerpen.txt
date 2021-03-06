@@ -1,12 +1,12 @@
-capital = 394
-primary_culture = wallonian
+capital = 387
+primary_culture = flemish
+culture = dutch
 religion = catholic
 government = absolute_monarchy
 plurality = 0.05
-nationalvalue = nv_equality
+nationalvalue = nv_liberty
 literacy = 0.28
 civilized = yes
-
 
 # Political reforms
 slavery = no_slavery
@@ -27,9 +27,9 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
+#New Reforms
 conscription = two_year_draft
-debt_law = peonage
+debt_law = debtors_prisons
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = culture_voting_only
@@ -37,15 +37,14 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = WLL_conservative
+ruling_party = FLA_conservative
 upper_house = {
 	fascist = 0
-	liberal = 28
-	conservative = 59
-	reactionary = 13
+	liberal = 18
+	conservative = 65
+	reactionary = 17
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
-
-oob = "HIN_oob.txt"
+oob = "BRB_oob.txt"

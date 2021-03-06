@@ -47,4 +47,4 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-obb = 
+oob = "ANW_oob.txt"
