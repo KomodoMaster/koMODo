@@ -214,8 +214,8 @@ beneluxian = {
 			Boye Braaksma Bruinsma Brun Epema Hager Harmeninck Hay Houtsma Kat Kooistra Lineberry Niemann Paysen Payson Posthuma Zylstra Wyckoof Wilkes
 			Turkstra Tiesema Tabbert Sjordsma
 		}
+	}
 }
-
 pan_swiss = {
 	leader = european
 	unit = EuropeanGC
