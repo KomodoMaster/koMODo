@@ -795,3 +795,10 @@ NORMAL_WAR_CONQUEST_ANY_NAME;$ORDER$Conquest of $SECOND_COUNTRY$ War;;;;;;;;;;;;
 AGRESSION_WAR_CONQUEST_ANY_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;
 RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of employed craftsmen and clerks, divided by 2500, and the value of your foreign investment.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 andalusian;Andalusian;;;;;;;;;;;;x
+iitaliin;Iitalin;;;;;;;;;;;;;x
+GC_NAME;Komodo Mod;;;;;;;;;;;x
+GC_DESC;Since the era of coping, the coium has been exported all over the coping world, with the new era of coping, the copium dealers have been lacking copium to sale. The copium can only be obtained through very strict means and those means are exploiting innocent living natives.;;;;;;;;;x;;;;
+flemish;Brabantian;;;;;;;;;;;;x;;
+dutch;Hollander;;;;;;;;;;x;;
+frisian;Frisian;;;;;;;;;;x;;
+nieuwhollander;Nieuw Hollander;;;;;;;;;;x;;

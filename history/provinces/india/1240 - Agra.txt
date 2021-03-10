@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = AWA
+controller = AWA
 add_core = MUG
 add_core = AWA
 add_core = HND

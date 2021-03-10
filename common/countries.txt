@@ -5,6 +5,9 @@ REB 	= "countries/rebels.txt"
 
 ##koMODo
 
+#New World
+NHL     ="countries/New Holland.txt"
+
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"
 

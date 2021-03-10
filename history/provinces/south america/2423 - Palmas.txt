@@ -1,5 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = NHL
+controller = NHL
+add_core = NHL
 trade_goods = fruit
 life_rating = 31

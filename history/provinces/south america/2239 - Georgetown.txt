@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = GUY
+owner = NHL
+controller = NHL
+add_core = NHL
 trade_goods = fruit
 terrain = plains
 life_rating = 35

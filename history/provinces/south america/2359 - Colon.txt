@@ -1,7 +1,5 @@
-owner = ENT
-controller = ENT
-add_core = ENT
-add_core = ARC
+owner = FRA
+controller = FRA
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { 

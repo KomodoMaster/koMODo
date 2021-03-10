@@ -1,10 +1,5 @@
-owner = CRT
-
-controller = CRT
-
-add_core = CRT
-add_core = ARC
-
+owner = FRA
+controller = FRA
 trade_goods = tobacco
 life_rating = 34
 1861.1.1 = { 

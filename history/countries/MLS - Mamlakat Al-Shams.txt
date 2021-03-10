@@ -1,4 +1,4 @@
-capital = 860
+capital = 763
 primary_culture = iitaliin
 religion = sunni
 government = absolute_monarchy
@@ -9,7 +9,7 @@ non_state_culture_literacy = 0.45
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 20
+prestige = 15
 
 # Political reforms
 slavery = yes_slavery

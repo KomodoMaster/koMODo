@@ -420,7 +420,6 @@ MCK_fascist_dictatorship;Manzhouguo;Manchukuo;Manchukuo;;;;;;;;;;;x
 MCK_presidential_dictatorship;Fengtian Clique;;;;;;;;;;;;;x
 MCK_ADJ;Manchu;Mandchou;Manchu;;;;;;;;;;;x
 MCK_presidential_dictatorship_ADJ;Fengtian;;;;;;;;;;;;;x
-BRZ_monarchy;Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 SIA_absolute_monarchy;Rattanakosin Kingdom;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 KML;Kumul Khanate;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 KML_democracy;Kumul Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
@@ -457,9 +456,6 @@ MHR;Mahra;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 MHR_ADJ;Mahrai;;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 SBA;Buenos Aires;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 SBA_ADJ;Porteno;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,
-BRZ_absolute_monarchy;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,
-BRZ_prussian_constitutionalism;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
-BRZ_hms_government;The Empire of Brazil;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,
 ARC;Argentina;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 ARC_democracy;Argentine Confederation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
 ARC_presidential_dictatorship;Argentine Confederation;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,
@@ -1725,11 +1721,11 @@ NOR_fascist;Nationalists;;;;;;;;;;;;x
 NOR_fascist_2;Nasjonal Samling;;;;;;;;;;;;x
 CZH_fascist;Vlajka;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 SLV_fascist;Slovenská Ludová Strana;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-SLV;Duchy of Nitra;;;;;;;;;;;;;;x
-SLV_ADJ;Nitran;;;;;;;;;;;;;;;x
-SLV_absolute_monarchy;Duchy of Nitra;;;;;;;;;;;;;x
-SLV_prussian_constitutionalism;Duchy of Nitra;;;;;;;;;;;;;;x
-SLV_hms_government;Duchy of Nitra;;;;;;;;;;;;;;x
+SLV;Duchy of Bratislava;;;;;;;;;;;;;;x
+SLV_ADJ;Bratislavan;;;;;;;;;;;;;;;x
+SLV_absolute_monarchy;Duchy of Bratislava;;;;;;;;;;;;;x
+SLV_prussian_constitutionalism;Duchy of Bratislava;;;;;;;;;;;;;;x
+SLV_hms_government;Duchy of Bratislava;;;;;;;;;;;;;;x
 NOV;Nova Scotia;Nouvelle-Écosse;Neuschottland;;;;;;;;;;;x
 NOV_ADJ;Nova Scotian;Nouvelle-Écossais;Neuschottisch;;;;;;;;;;;x
 NOV_liberal;Liberal Party;Parti libéral;Liberale Partei;;;;;;;;;;;x
@@ -3253,16 +3249,16 @@ BRB_hms_government;United Duchy of Brabant;;;;;;;;;;;;;;;x
 BRB_democracy;Brabant Republic;;;;;;;;;;;;;;;;;;x
 BRB_proleterian_dictatorship;Brabantian State;;;;;;;;;;;;;;;x
 BRB_fascist_dictatorship;Groter Brabant;;;;;;;;;;;;;;;;x
-ANT;Antwerpen;;;;;;;;;;;;;;x
-ANT_ADJ;Antwerpian;;;;;;;;;;;;;;x
-ANT_absolute_monarchy;County of Antwerp;;;;;;;;;;;;;x
-ANT_prussian_constitutionalism;County of Antwerp;;;;;;;;;;;;;;x
-ANT_hms_government;County of Antwerp;;;;;;;;;;;;;x
-ANT_democracy;Principality of Antwerp;;;;;;;;;;;;;;x
-ANT_proleterian_dictatorship;Community of Antwerp;;;;;;;;;;;;;;x
-ANT_fascist_dictatorship;Antwerpen;;;;;;;;;;;;;;;x
+ANW;Antwerpen;;;;;;;;;;;;;;x
+ANW_ADJ;Antwerpian;;;;;;;;;;;;;;x
+ANW_absolute_monarchy;County of Antwerp;;;;;;;;;;;;;x
+ANW_prussian_constitutionalism;County of Antwerp;;;;;;;;;;;;;;x
+ANW_hms_government;County of Antwerp;;;;;;;;;;;;;x
+ANW_democracy;Principality of Antwerp;;;;;;;;;;;;;;x
+ANW_proleterian_dictatorship;Community of Antwerp;;;;;;;;;;;;;;x
+ANW_fascist_dictatorship;Antwerpen;;;;;;;;;;;;;;;x
 HLL;Holland;;;;;;;;;;x
-HLL_ADJ;Hollandish;;;;;;;;;;;x
+HLL_ADJ;Hollander;;;;;;;;;;;x
 HLL_absolute_monarchy;Hollands Kingdom;;;;;;;;;;;;;x
 HLL_prussian_constitutionalism;Hollands Kingdom;;;;;;;;;;;;;;;;x
 HLL_hms_government;Hollands Kingdom;;;;;;;;;;;;;;;;;x
@@ -3300,3 +3296,13 @@ HIN_prussian_constitutionalism;Duchy of Hainaut;;;;;;;;;;;;;;;;;;;;x
 HIN_hms_government;Duchy of Hainaut;;;;;;;;;;;;;;;;;x
 TEU;Teutonic Order;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 TEU_ADJ;Teutonic;;;;;;;;;;;;;;;;;x;;;;;
+BRZ;New Holland;;;;;;;;;;x
+BRZ_ADJ;New Hollander;;;;;;;;;x
+NHL;Nieuw Holland;;;;;;;;;;x
+NHL_ADJ;Nieuw Hollander;;;;;;;;;x
+NHL_absolute_monarchy;Kingdom of Nieuw Holland;;;;;;;;;;;;x
+NHL_prussian_constitutionalism;Kingdom of Nieuw Holland;;;;;;;;;;;x
+NHL_hms_government;Kingdom of Nieuw Holland;;;;;;;;;;;;;x
+NHL_democracy;Nieuw Hollander Republic;;;;;;;;;;;;;x
+NHL_proleterian_dictatorship;New Hollander People's Republic;;;;;;;;;;;;;;x
+NHL_fascist_dictatorship;Great Holland;;;;;;;;;;;;;;;;;;;x

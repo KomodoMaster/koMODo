@@ -1,7 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
-add_core = PNB
+owner = NHL
+controller = NHL
+add_core = NHL
 trade_goods = tobacco
 terrain = farmlands
 life_rating = 35
