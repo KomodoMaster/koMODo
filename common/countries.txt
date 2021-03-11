@@ -10,6 +10,7 @@ NHL     ="countries/New Holland.txt"
 
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"
+BRN		="countries/Brandenburg.txt"
 
 #Muslim things
 AND		="countries/Al-Andalus.txt"
