@@ -5,6 +5,9 @@ REB 	= "countries/rebels.txt"
 
 ##koMODo
 
+#Italy
+GEN     ="countries/Genoa.txt"
+
 #New World
 NHL     ="countries/New Holland.txt"
 

@@ -181,16 +181,19 @@ DEN_372 = { 372 373 374 } #Sjaelland
 
 ### Low Countries
 
-NET_375 = { 375 376 377 382 } #Holland
+HLL_375 = { 375 376 378 377 } #Holland
 
-NET_379 = { 379 378 380 381 } #Zeeland
+FRI_385 = { 385 383 } #Friesland
 
-NET_385 = { 385 383 384 386 } #Friesland
+HLL_386 = { 386 384 382 } #Overijssel
 
-BEL_387 = { 387 388 389 390 391 } #Flanders
+FLA_387 = { 388 389 390 } #Vlaanderen
 
-BEL_394 = { 394 392 393 395 398 } #Wallonia
+HIN_394 = { 393 394 392 395 396 } #Wallonia
 
+BRB_387 = { 387 391 379 380 381 } #Brabant
+
+LUX_397 = { 397 398 } #Luxemburg
 
 ### France
 

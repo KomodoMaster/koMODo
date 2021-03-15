@@ -3308,3 +3308,14 @@ NHL_hms_government;Kingdom of Nieuw Holland;;;;;;;;;;;;;x
 NHL_democracy;Nieuw Hollander Republic;;;;;;;;;;;;;x
 NHL_proleterian_dictatorship;New Hollander People's Republic;;;;;;;;;;;;;;x
 NHL_fascist_dictatorship;Great Holland;;;;;;;;;;;;;;;;;;;x
+GEN;Genoa;;;;;;;;;;;;;;;;x
+GEN_ADJ;Genoese;;;;;;;;;;;;;;;;;;;;x
+GEN_absolute_monarchy;Duchy of Genoa;;;;;;;;;;;;;;;x
+GEN_prussian_constitutionalism;Duchy of Genoa;;;;;;;;;;;;;;;;x
+GEN_hms_government;Duchy of Genoa;;;;;;;;;;;;;;;;;;;;;;;;;x
+GEN_democracy;Genoese Republic;;;;;;;;;;;;;;;;;;;;x
+GEN_proleterian_dictatorship;Democratic Republic of Genoa;;;;;;;;;;;x
+GEN_fascist_dictatorship;Genoese State;;;;;;;;;;;;;;x
+LOM_absolute_monarchy;Duchy of Milan;;;;;;;;;;;;;;x
+LOM_prussian_constitutionalism;Duchy of Milan;;;;;;;;;;;;;;;;x
+LOM_hms_government;Duchy of Milan;;;;;;;;;;;;;;;;;;;x

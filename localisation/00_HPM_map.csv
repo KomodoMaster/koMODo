@@ -442,10 +442,7 @@ RUS_345;Turku;;;;;;;;;;;;x
 RUS_360;Lithuania;;;;;;;;;;;;x
 HOL_369;Holstein;;;;;;;;;;;;x
 SCH_370;Schleswig;;;;;;;;;;;;x
-NET_379;Zeeland;;;;;;;;;;;;x
 PROV381;Limburg;;;;;;;;;;;;x
-BEL_387;Flanders;;;;;;;;;;;;x
-BEL_394;Wallonia;;;;;;;;;;;;x
 HAN_528;Lower Elbe;;;;;;;;;;;;x
 HAN_534;Hanover;;;;;;;;;;;;x
 HAN_540;East Friesland;;;;;;;;;;;;x
@@ -972,3 +969,10 @@ PROV3284;Lake Constance;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV906;As-Suwayda;;;;;;;;;;;x
 PROV3323;Konitz;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV692;Walcz;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+FLA_387;Vlaanderen;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+HLL_375;Holland;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+FRI_385;Fryslan;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+HLL_386;Overijssel;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+HIN_394;Wallonie;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+BRB_387;Brabant;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
+LUX_397;Luxembourg;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,

@@ -3380,43 +3380,43 @@
 #Annecy (258400/64600 POPS)
 465 = {
 	aristocrats = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 600
 	}
 
 	officers = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 3250
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 28100
 	}
@@ -3430,31 +3430,31 @@
 #Chambery (228400/57100 POPS)
 466 = {
 	aristocrats = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 2800
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = savoyard
 		religion = catholic
 		size = 26375
 	}
@@ -3696,31 +3696,31 @@
 #Nice (Sardinian until 1860) (170800/42700 POPS)
 472 = {
 	aristocrats = {
-		culture = north_italian
+		culture = ligurian
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = ligurian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = ligurian
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = ligurian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = ligurian
 		religion = catholic
 		size = 19025
 	}
@@ -3736,63 +3736,45 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = french
+		culture = tuscan
 		religion = catholic
-		size = 400
-	}
-
-	aristocrats = {
-		culture = north_italian
-		religion = catholic
-		size = 150
+		size = 550
 	}
 
 	officers = {
-		culture = french
+		culture = tuscan
 		religion = catholic
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = tuscan
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = french
+		culture = tuscan
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = tuscan
 		religion = catholic
-		size = 1500
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 1100
+		size = 2600
 	}
 
 	soldiers = {
-		culture = french
+		culture = tuscan
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = french
+		culture = tuscan
 		religion = catholic
-		size = 4800
-	}
-
-	farmers = {
-		culture = north_italian
-		religion = catholic
-		size = 43300
+		size = 48100
 	}
 
 }

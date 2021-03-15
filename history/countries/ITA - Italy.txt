@@ -1,6 +1,13 @@
 capital = 749
-primary_culture = north_italian
-culture = south_italian
+primary_culture = mediani
+culture = savoyard
+culture = piedmontese
+culture = lombardian
+culture = emilian
+culture = tuscan
+culture = venetian
+culture = neapolitan
+culture = sardinian
 religion = catholic
 government = hms_government
 plurality = 0.12
