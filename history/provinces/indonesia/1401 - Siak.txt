@@ -1,5 +1,6 @@
-owner = SAK
-controller = SAK
+owner = MJA
+controller = MJA
 add_core = SAK
+add_core = MJA
 trade_goods = grain
 life_rating = 35

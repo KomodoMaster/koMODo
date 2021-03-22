@@ -1,6 +1,7 @@
-owner = SUL
-controller = SUL
+owner = MJA
+controller = MJA
 add_core = PHL
 add_core = SUL
+add_core = MJA
 trade_goods = fish
 life_rating = 35

@@ -1,6 +1,7 @@
-owner = KLM
-controller = KLM
+owner = MJA
+controller = MJA
 add_core = KLM
+add_core = MJA
 trade_goods = sulphur
 life_rating = 35
 colonial = 2

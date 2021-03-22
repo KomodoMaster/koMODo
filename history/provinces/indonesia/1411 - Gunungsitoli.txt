@@ -1,6 +1,7 @@
-owner = ATJ
-controller = ATJ
+owner = MJA
+controller = MJA
 add_core = ATJ
 add_core = SAK
+add_core = MJA
 trade_goods = fish
 life_rating = 32

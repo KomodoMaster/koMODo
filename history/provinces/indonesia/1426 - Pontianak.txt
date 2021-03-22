@@ -1,6 +1,7 @@
-owner = PNK
-controller = PNK
+owner = MJA
+controller = MJA
 add_core = PNK
 add_core = LAN
+add_core = MJA
 trade_goods = precious_metal
 life_rating = 34

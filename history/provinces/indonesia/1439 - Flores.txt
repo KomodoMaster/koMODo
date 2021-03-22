@@ -1,6 +1,7 @@
-owner = BAL
-controller = BAL
+owner = MJA
+controller = MJA
 add_core = BAL
+add_core = MJA
 trade_goods = coffee
 life_rating = 31
 colonial = 2

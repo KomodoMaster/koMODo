@@ -1,5 +1,6 @@
-owner = SAK
-controller = SAK
+owner = MJA
+controller = MJA
 add_core = SAK
+add_core = MJA
 trade_goods = fruit
 life_rating = 31

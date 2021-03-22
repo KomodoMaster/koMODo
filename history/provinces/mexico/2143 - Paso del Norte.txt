@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
+owner = AZT
+controller = AZT
 terrain = new_world_semidesert
-add_core = MEX
+add_core = AZT
 trade_goods = grain
 life_rating = 31

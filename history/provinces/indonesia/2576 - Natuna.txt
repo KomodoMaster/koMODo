@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
+owner = MJA
+controller = MJA
 add_core = SAK
+add_core = MJA
 trade_goods = fish
 terrain = small_island
 life_rating = 31

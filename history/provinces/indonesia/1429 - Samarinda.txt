@@ -1,6 +1,7 @@
-owner = KTI
-controller = KTI
+owner = MJA
+controller = MJA
 add_core = KTI
+add_core = MJA
 trade_goods = fruit
 life_rating = 31
 1860.1.1 = {

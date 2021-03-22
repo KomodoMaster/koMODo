@@ -1,5 +1,6 @@
-owner = MAL
-controller = MAL
+owner = MJA
+controller = MJA
 add_core = PPG
+add_core = MJA
 trade_goods = grain
 life_rating = 31

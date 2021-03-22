@@ -1,7 +1,6 @@
-owner = TEX
-controller = TEX
-add_core = TEX
-add_core = MEX
+owner = AZT
+controller = AZT
+add_core = AZT
 trade_goods = cattle
 life_rating = 35
 fort = 1 #Remember the Alamo!

@@ -1,5 +1,6 @@
-owner = DJA
-controller = DJA
+owner = MJA
+controller = MJA
 add_core = DJA
+add_core = MJA
 trade_goods = fish
 life_rating = 35

@@ -1,5 +1,6 @@
-owner = ATJ
-controller = ATJ
+owner = MJA
+controller = MJA
 add_core = ATJ
+add_core = MJA
 trade_goods = fruit
 life_rating = 38

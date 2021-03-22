@@ -1,0 +1,5 @@
+owner = MJA
+controller = MJA
+add_core = MJA
+trade_goods = grain
+life_rating = 15

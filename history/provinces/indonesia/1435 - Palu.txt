@@ -1,5 +1,6 @@
-owner = SLW
-controller = SLW
+owner = MJA
+controller = MJA
 add_core = SLW
+ADD_CORE = MJA
 trade_goods = wool
 life_rating = 31
