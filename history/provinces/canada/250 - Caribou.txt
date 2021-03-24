@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = MRU
-add_core = NEN
+owner = NSU
+controller = NSU
+add_core = NSU
 trade_goods = grain
 life_rating = 35
 colonial = 2
