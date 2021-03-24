@@ -17,6 +17,7 @@ GEN     ="countries/Genoa.txt"
 #New World
 NHL     ="countries/New Holland.txt"
 AZT     ="countries/Aztec.txt"
+NSU	="countries/New Suomi.txt"
 
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"
