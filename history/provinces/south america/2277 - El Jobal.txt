@@ -1,5 +1,5 @@
-owner = VNZ
-controller = VNZ
-add_core = VNZ
+owner = TVR
+controller = TVR
+add_core = TVR
 trade_goods = fruit
 life_rating = 31

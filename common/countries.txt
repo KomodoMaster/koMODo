@@ -5,9 +5,9 @@ REB 	= "countries/rebels.txt"
 
 ##koMODo
 
-##Russia and Ruthenia
+#Russia and Ruthenia
 
-##Indonesia
+#Indonesia
 
 MJA     ="countries/Majapahit.txt"
 
@@ -17,7 +17,8 @@ GEN     ="countries/Genoa.txt"
 #New World
 NHL     ="countries/New Holland.txt"
 AZT     ="countries/Aztec.txt"
-NSU	="countries/New Suomi.txt"
+NSU		="countries/New Suomi.txt"
+TVR     ="countries/Tovarland.txt"
 
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"

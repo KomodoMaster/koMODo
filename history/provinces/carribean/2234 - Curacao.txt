@@ -1,5 +1,6 @@
-owner = NET
-controller = NET
+owner = TVR
+controller = TVR
+add_core = TVR
 trade_goods = tobacco
 life_rating = 35
 colonial = 2

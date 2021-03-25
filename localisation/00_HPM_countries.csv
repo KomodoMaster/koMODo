@@ -3340,3 +3340,11 @@ AZT_communist_1;Tekitin Iluiyotl;;;;;;;;;;;;;;;x
 AZT_fascist_1;Altepetlaollin;;;;;;;;;;;;;;;x
 NSU;New Suomi;;;;;;;;;;;;;;;;;x
 NSU_ADJ;New Suomi;;;;;;;;;;;;;;;;;;;;x
+TVR;Tovarland;;;;;;;;;;;;;;;;x
+TVR_ADJ;Tovar;;;;;;;;;;;;;;;;x
+TVR_absolute_monarchy;Toverland;;;;;;;;;;;;;;;;;x
+TVR_prussian_constitutionalism;Toverland;;;;;;;;;;;;;;;;x
+TVR_hms_government;Tovarland;;;;;;;;;;;;;;;;;;;;;;x
+TVR_democracy;Republic of Tovarland;;;;;;;;;;;;;;;;;;;;;x
+TVR_proleterian_dictatorship;People's Republic of Tovar;;;;;;;;;;;;;;;;;x
+TVR_fascist_dictatorship;Neu Deutschland;;;;;;;;;;;;;;;;;x
