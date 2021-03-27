@@ -1,0 +1,14 @@
+army = {
+	name = "Garde Royale"
+	location = 409
+	regiment = {
+		name= "1.Garde Royale"
+		type = guard
+		home = 414
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = guard
+		home = 411
+	}
