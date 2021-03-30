@@ -518,7 +518,6 @@ iberian = {
 		Bilbao Campión Churruca "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" Echagüe Echave
 	 	Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo 
 		Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
-		radicalism = 15
 	}
 	spanish = {
 		color = {220 220 30}
@@ -2167,6 +2166,18 @@ neo_european_cultures = {
 		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius J?rnef?lt
 		Linder Mannerheim Multam?ki Nenonen Oesch ?quist  Paasikivi Raappana Ramsay
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo  Walden Wallenius Wetzer }	
+	}
+	balea_jendea = {
+		color = { 249 128 43 }
+		first_names = { Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
+		Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
+		Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
+		Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente }
+		
+		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui 
+		Bilbao Campión Churruca "de Amésquita" "de Azpilicueta" "de Erauso" "de Rentería" "de Ubisztongo" Echagüe Echave
+	 	Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo 
+		Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
 	}
 }
 

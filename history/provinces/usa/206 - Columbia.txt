@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = BLK
+controller = BLK
+add_core = BLK
 trade_goods = cotton
 life_rating = 35
 

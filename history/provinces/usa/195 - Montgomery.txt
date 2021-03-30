@@ -1,3 +1,6 @@
+owner = BLK
+controller = BLK
+add_core = BLK
 trade_goods = cotton
 life_rating = 35
 

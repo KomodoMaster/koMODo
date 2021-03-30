@@ -1,3 +1,6 @@
+owner = NSW
+controller = NSW
+add_core = NSW
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

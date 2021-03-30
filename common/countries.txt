@@ -20,6 +20,7 @@ AZT     ="countries/Aztec.txt"
 TVR     ="countries/Tovarland.txt"
 NSU		="countries/New Suomi.txt"
 NSW		="countries/Nya Svea Rike.txt"
+BLK     ="countries/Baleakia.txt"
 
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"
@@ -29,7 +30,7 @@ BRN		="countries/Brandenburg.txt"
 AND		="countries/Al-Andalus.txt"
 MLS		="countries/Mamlakat Al-Shams.txt"
 
-#Benelux for koMODo
+#Benelux
 LBG		="countries/Limburg.txt"
 BRB     ="countries/Brabant.txt"
 ANW     ="countries/Antwerpen.txt"
@@ -41,6 +42,8 @@ THP     ="countries/The Principality.txt"
 EUP     ="countries/Eupen-Malmedy.txt"
 HIN     ="countries/Hainaut.txt"
 
+#Germany
+SLZ		= "countries/Salzburg.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"
@@ -167,7 +170,6 @@ PML		= "countries/Pomerelia.txt"
 PZN		= "countries/Poznan.txt"
 SLS		= "countries/Silesia.txt"
 WES		= "countries/Westfalen.txt"
-SLZ		= "countries/Salzburg.txt"
 
 #Russia
 AKH		= "countries/Astrakhan.txt"

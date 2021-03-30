@@ -1,3 +1,6 @@
+owner = NSW
+controller = NSW
+add_core = NSW
 trade_goods = iron
 life_rating = 35
 railroad = 1
