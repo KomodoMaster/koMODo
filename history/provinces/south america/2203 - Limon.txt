@@ -1,6 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = COS
+owner = QAJ
+controller = QAJ
+add_core = QAJ
 trade_goods = coffee
 life_rating = 33
 1861.1.1 = {

@@ -1,4 +1,6 @@
-owner = MEX
+owner = QAJ
+controller = QAJ
+add_core = QAJ
 trade_goods = cotton
 life_rating = 31
 1861.1.1 = {

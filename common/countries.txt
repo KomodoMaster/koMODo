@@ -29,6 +29,7 @@ BRN		="countries/Brandenburg.txt"
 #Muslim things
 AND		="countries/Al-Andalus.txt"
 MLS		="countries/Mamlakat Al-Shams.txt"
+QAJ     ="countries/Qartoba Al-Jidada.txt"
 
 #Benelux
 LBG		="countries/Limburg.txt"

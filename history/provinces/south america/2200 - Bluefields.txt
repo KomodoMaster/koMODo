@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-colonial = 2
-add_core = NIC
+owner = QAJ
+controller = QAJ
+add_core = QAJ
 trade_goods = fruit
 life_rating = 33

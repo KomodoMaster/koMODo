@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = BSQ
+controller = BSQ
 add_core = CUB
 trade_goods = fish
 life_rating = 30

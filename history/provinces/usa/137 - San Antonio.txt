@@ -1,6 +1,3 @@
-owner = AZT
-controller = AZT
-add_core = AZT
 trade_goods = cattle
 life_rating = 35
 fort = 1 #Remember the Alamo!

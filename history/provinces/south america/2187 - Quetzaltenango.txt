@@ -1,3 +1,6 @@
+controller = QAJ
+owner = QAJ
+add_core = QAJ
 trade_goods = iron
 life_rating = 33
 1861.1.1 = {

@@ -569,22 +569,6 @@ iberian = {
 		Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
 		Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
 	}
-	andalusian = {
-	    color = {139 183 0}
-		first_names = { 
-			Aban Razin Abbad Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Fadl Galib
-			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Nizar Rabi Qasim Ridwan 
-			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
-			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Garsiyya Ayshun Amr Hajjaj 
-		}
-		
-		last_names = { 
-			Elsherbiny  Elshinnawy Abdel-Dayem Elhadidy Adib Bassili Aboul-Nour Elbassiouny Aoul-Enein Elsaeid Elhousseiny Khattab Gouda Elbordiny Arafa 
-			Elsafty Elshorbagy Hasheesh Halim Tawakol Elfar Elbadry Khalil Shahin Elserafie Hakim Kira Amer Bakhoum Elmanawy Deyab Derbala Elhadidi Elbenhawy 
-			Negm Nakhla Koura Elshazly Soliman Elkhashab Elkady Hindawy Zeitoun Elgammal 
-		} 
-    }
-
 }
 
 french = {
@@ -1220,13 +1204,28 @@ arab = {
 		}
 		radicalism = 10
 	}
-iitaliin = {
-	 color = { 196 206 2 }
+	iitaliin = {
+		color = { 196 206 2 }
 		first_names = { 
 			Aban Razin Abbad Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Galib
 			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Nizar Rabi Qasim Ridwan 
 			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
 			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Garsiyya Fadl Ayshun Amr Hajjaj 
+		}
+		
+		last_names = { 
+			Elsherbiny  Elshinnawy Abdel-Dayem Elhadidy Adib Bassili Aboul-Nour Elbassiouny Aoul-Enein Elsaeid Elhousseiny Khattab Gouda Elbordiny Arafa 
+			Elsafty Elshorbagy Hasheesh Halim Tawakol Elfar Elbadry Khalil Shahin Elserafie Hakim Kira Amer Bakhoum Elmanawy Deyab Derbala Elhadidi Elbenhawy 
+			Negm Nakhla Koura Elshazly Soliman Elkhashab Elkady Hindawy Zeitoun Elgammal 
+		} 
+    }
+	andalusian = {
+	    color = {139 183 0}
+		first_names = { 
+			Aban Razin Abbad Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Fadl Galib
+			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Nizar Rabi Qasim Ridwan 
+			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
+			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Garsiyya Ayshun Amr Hajjaj 
 		}
 		
 		last_names = { 
@@ -2179,6 +2178,20 @@ neo_european_cultures = {
 	 	Echegaray Echevarría Elorza Gaztañeta Ibarrola Ibárruri Irujo Lazcano Mendizabal Moneo 
 		Nárdiz Olano Olave Oyarzábal Rotaeche Uzcudun Zamárraga Zárate Zavala Zumalacárregui }
 	}
+	new_cordoban = {
+		color = { 24 150 48 }
+		first_names = { 
+			Aban Razin Abbad Abbas Abd-al-Samad  Abd-al-Wahid Ahmad Amir Aslam Attab Bakr Fadl Galib
+			Hafs Hajj/Hajja Hakam Hammad Hisham Ibrahim Isma'il Jahhaf Ja'qub Makki Mansur Mas'ud Muhammad Nizar Rabi Qasim Ridwan 
+			Sa'dan 	Safwan 	Sajr/Sahr Sawwar Shu'ayb Sulaiman Tahir Ubaid Umayyah Ziyadatallah Zakarriyya' Ya'qub Ulaym Tammam Tabit Shurayh
+			Salama Nusayr Mutarrif Mufawwiz Marwan Jalid Isa Humam Hamid Abd-al-Warit Garsiyya Ayshun Amr Hajjaj 
+		}
+		last_names = { 
+			Elsherbiny  Elshinnawy Abdel-Dayem Elhadidy Adib Bassili Aboul-Nour Elbassiouny Aoul-Enein Elsaeid Elhousseiny Khattab Gouda Elbordiny Arafa 
+			Elsafty Elshorbagy Hasheesh Halim Tawakol Elfar Elbadry Khalil Shahin Elserafie Hakim Kira Amer Bakhoum Elmanawy Deyab Derbala Elhadidi Elbenhawy 
+			Negm Nakhla Koura Elshazly Soliman Elkhashab Elkady Hindawy Zeitoun Elgammal 
+		}
+	}	
 }
 
 latin_american_cultures = {
