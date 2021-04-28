@@ -797,7 +797,7 @@ RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. 
 andalusian;Andalusian;;;;;;;;;;;;x
 iitaliin;Iitalin;;;;;;;;;;;;;x
 GC_NAME;Komodo Mod;;;;;;;;;;;x
-GC_DESC;Since the era of coping, the coium has been exported all over the coping world, with the new era of coping, the copium dealers have been lacking copium to sale. The copium can only be obtained through very strict means and those means are exploiting innocent living natives.;;;;;;;;;x;;;;
+GC_DESC;Since the era of coping, the copium has been exported all over the coping world, with the new era of coping, the copium dealers have been lacking copium to sale. The copium can only be obtained through very strict means and those means are exploiting innocent living natives.;;;;;;;;;x;;;;
 flemish;Brabantian;;;;;;;;;;;;x;;
 dutch;Hollander;;;;;;;;;;x;;
 frisian;Frisian;;;;;;;;;;x;;
@@ -818,4 +818,5 @@ balea_jendea;Balea Jendea;;;;;;;;;;x;;
 invandrare;Invandrare;;;;;;;;;;x;;
 new_cordoban;New Cordoban;;;;;;;;;;;x;;
 portuguese;Galician;;;;;;;;;;x;;
-spanish;Hispanian;;;;;;;;;;x;;
+spanish;Castilian;;;;;;;;;;x;;
+french;Frankish;;;;;;;;;;x;;

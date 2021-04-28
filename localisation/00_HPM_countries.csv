@@ -871,7 +871,7 @@ BSQ_absolute_monarchy;Kingdom of Navarra;;;;;;;;;;;;;x
 BSQ_prussian_constitutionalism;Kingdom of Navarra;;;;;;;;;;;;;x
 BSQ_hms_government;Kingdom of Navarra;;;;;;;;;;;;;x
 BSQ_democracy;Euskaldunen Errepublika;;;;;;;;;;;;;x
-BSQ_proleterian_dictatorship;Basque People's Union;;;;;;;;;;;;;x
+BSQ_proletarian_dictatorship;Basque People's Union;;;;;;;;;;;;;x
 BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
 BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;x
 BSQ_liberal;Alderdi Abertzale Errepublikanoa;;;;;;;;;;;;;x
@@ -3229,7 +3229,7 @@ BRB_absolute_monarchy;United Duchy of Brabant;;;;;;;;;;;;;;;x
 BRB_prussian_constitutionalism;United Duchy of Brabant;;;;;;;;;;;;;;x
 BRB_hms_government;United Duchy of Brabant;;;;;;;;;;;;;;;x
 BRB_democracy;Brabant Republic;;;;;;;;;;;;;;;;;;x
-BRB_proleterian_dictatorship;Brabantian State;;;;;;;;;;;;;;;x
+BRB_proletarian_dictatorship;Brabantian State;;;;;;;;;;;;;;;x
 BRB_fascist_dictatorship;Groter Brabant;;;;;;;;;;;;;;;;x
 ANW;Antwerpen;;;;;;;;;;;;;;x
 ANW_ADJ;Antwerpian;;;;;;;;;;;;;;x
@@ -3237,7 +3237,7 @@ ANW_absolute_monarchy;County of Antwerp;;;;;;;;;;;;;x
 ANW_prussian_constitutionalism;County of Antwerp;;;;;;;;;;;;;;x
 ANW_hms_government;County of Antwerp;;;;;;;;;;;;;x
 ANW_democracy;Principality of Antwerp;;;;;;;;;;;;;;x
-ANW_proleterian_dictatorship;Community of Antwerp;;;;;;;;;;;;;;x
+ANW_proletarian_dictatorship;Community of Antwerp;;;;;;;;;;;;;;x
 ANW_fascist_dictatorship;Antwerpen;;;;;;;;;;;;;;;x
 HLL;Holland;;;;;;;;;;x
 HLL_ADJ;Hollander;;;;;;;;;;;x
@@ -3245,7 +3245,7 @@ HLL_absolute_monarchy;Hollands Kingdom;;;;;;;;;;;;;x
 HLL_prussian_constitutionalism;Hollands Kingdom;;;;;;;;;;;;;;;;x
 HLL_hms_government;Hollands Kingdom;;;;;;;;;;;;;;;;;x
 HLL_democracy;Republic of Holland;;;;;;;;;;;;;;x
-HLL_proleterian_dictatorship;Hollandish People's State;;;;;;;;;;;;;;;x
+HLL_proletarian_dictatorship;Hollandish People's State;;;;;;;;;;;;;;;x
 HLL_fascist_dictatorship;The Absolute State of Holland;;;;;;;;;;;;;;;;;x
 ZEE;Zeeland;;;;;;;;;;;;;;;;;;x
 ZEE_ADJ;Zeelander;;;;;;;;;;;;;;;;;;;x
@@ -3253,7 +3253,7 @@ ZEE_absolute_monarchy;Kingdom of Zeeland;;;;;;;;;;;;;;;;x
 ZEE_prussian_constitutionalism;Kingdom of Zeeland;;;;;;;;;;;;;x
 ZEE_hms_government;Kingdom of Zeeland;;;;;;;;;;;;;;x
 ZEE_democracy;Republic of Zeeland;;;;;;;;;;;;;;x
-ZEE_proleterian_dictatorship;Zeelander_people's Union;;;;;;;;;;;;;;;;x
+ZEE_proletarian_dictatorship;Zeelander People's Union;;;;;;;;;;;;;;;;x
 ZEE_fascist_dictatorship;Zeelander State;;;;;;;;;;;;;;;;;;;;;;x
 FRI;Frisia;;;;;;;;;;;;;;;;;;x
 FRI_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;x
@@ -3261,7 +3261,7 @@ FRI_absolute_monarchy;Frisian Kingdom;;;;;;;;;;;;;;x
 FRI_prussian_constitutionalism;Frisian Kingdom;;;;;;;;;;;;;;x
 FRI_hms_government;Frisian Kingdom;;;;;;;;;;;;;;;x
 FRI_democracy;Republic of The Frisians;;;;;;;;;;;;;;;x
-FRI_proleterian_dictatorship;Frisian People's Republic;;;;;;;;;;;;;;x
+FRI_proletarian_dictatorship;Frisian People's Republic;;;;;;;;;;;;;;x
 FRI_fascist_dictatorship;Great Frisian State;;;;;;;;;;;;;;;;;x
 THP;The Principality;;;;;;;;;;;;;;;;;x
 THP_ADJ;Liegian;;;;;;;;;;;;;;;;;;x
@@ -3286,7 +3286,7 @@ NHL_absolute_monarchy;Kingdom of Nieuw Holland;;;;;;;;;;;;x
 NHL_prussian_constitutionalism;Kingdom of Nieuw Holland;;;;;;;;;;;x
 NHL_hms_government;Kingdom of Nieuw Holland;;;;;;;;;;;;;x
 NHL_democracy;Nieuw Hollander Republic;;;;;;;;;;;;;x
-NHL_proleterian_dictatorship;New Hollander People's Republic;;;;;;;;;;;;;;x
+NHL_proletarian_dictatorship;New Hollander People's Republic;;;;;;;;;;;;;;x
 NHL_fascist_dictatorship;Great Holland;;;;;;;;;;;;;;;;;;;x
 GEN;Genoa;;;;;;;;;;;;;;;;x
 GEN_ADJ;Genoese;;;;;;;;;;;;;;;;;;;;x
@@ -3294,7 +3294,7 @@ GEN_absolute_monarchy;Duchy of Genoa;;;;;;;;;;;;;;;x
 GEN_prussian_constitutionalism;Duchy of Genoa;;;;;;;;;;;;;;;;x
 GEN_hms_government;Duchy of Genoa;;;;;;;;;;;;;;;;;;;;;;;;;x
 GEN_democracy;Genoese Republic;;;;;;;;;;;;;;;;;;;;x
-GEN_proleterian_dictatorship;Democratic Republic of Genoa;;;;;;;;;;;x
+GEN_proletarian_dictatorship;Democratic Republic of Genoa;;;;;;;;;;;x
 GEN_fascist_dictatorship;Genoese State;;;;;;;;;;;;;;x
 LOM_absolute_monarchy;Duchy of Milan;;;;;;;;;;;;;;x
 LOM_prussian_constitutionalism;Duchy of Milan;;;;;;;;;;;;;;;;x
@@ -3326,7 +3326,7 @@ TVR_absolute_monarchy;Toverland;;;;;;;;;;;;;;;;;x
 TVR_prussian_constitutionalism;Toverland;;;;;;;;;;;;;;;;x
 TVR_hms_government;Tovarland;;;;;;;;;;;;;;;;;;;;;;x
 TVR_democracy;Republic of Tovarland;;;;;;;;;;;;;;;;;;;;;x
-TVR_proleterian_dictatorship;People's Republic of Tovar;;;;;;;;;;;;;;;;;x
+TVR_proletarian_dictatorship;People's Republic of Tovar;;;;;;;;;;;;;;;;;x
 TVR_fascist_dictatorship;Neu Deutschland;;;;;;;;;;;;;;;;;x
 NSW;Nya Svea Rike;;;;;;;;;;;;;;;;;x
 NSW_ADJ;New Swedish;;;;;;;;;;;;;;;;;x
@@ -3338,8 +3338,41 @@ BLK_absolute_monarchy;Kingdom of Baleakia;;;;;;;;;;;;;;x
 BLK_prussian_constitutionalism;Kingdom of Baleakia;;;;;;;;;;;;;;;;x
 BLK_hms_government;Kingdom of Baleakia;;;;;;;;;;;;;;;;;;;x
 BLK_republic;Republika Baleakia;;;;;;;;;;;;;;;;;;;;x
-BLK_proleterian_dictatorship;The BSPR;;;;;;;;;;;;;;;;;;x
+BLK_proletarian_dictatorship;The BSPR;;;;;;;;;;;;;;;;;;x
 BLK_fascist_dictatorship;Nova Vasconia;;;;;;;;;;;;;;;;;;;;x
 QAJ;Qartoba Al-Jadida;;;;;;;;;;;;;;x
 QAJ_ADJ;New Cordoban;;;;;;;;;;;x
 QAJ_fascist_dictatorship;The Moorish Caliphate of Central America;;;;;;;;;;;;;;x
+BEL;Belgica;;;;;;;;;;;;;;;;;x
+BEL_ADJ;Belgican;;;;;;;;;;;;;;;;;x
+BEL_absolute_monarchy;Kingdom of Belgica;;;;;;;;;;;;;;;;;x
+BEL_prussian_constitutionalism;Kingdom of Belgica;;;;;;;;;;;;;;;;;x
+BEL_hms_government;Kingdom of Belgica;;;;;;;;;;;;;;;;;x
+BEL_proletarian_dictatorship;Democratic Republic of Belgica;;;;;;;;;;;;;;;;;x
+BEL_fascist_dictatorship;Belgican State;;;;;;;;;;;;;;;;;x
+FRA;Francia;;;;;;;;;;x
+FRA_ADJ;Frankish;;;;;;;;;x
+FRA_absolute_monarchy;Kingdom of Frankia;;;;;;;;;;x
+FRA_prussian_constitutionalism;Kingdom of Frankia;;;;;;;;;;;;x
+FRA_hms_government;Kingdom of Frankia;;;;;;;;;;x
+FRA_democracy;Frankish Republic;;;;;;;;;x
+FRA_presidental_dictatorship;Frankish Republic;;;;;;;;;;;;x
+FRA_bourgeois_dictatorship;Frankish State;;;;;;;;;;;;;x
+FRA_proleterian_dictatorship;Frankish Commune;;;;;;;;;;;;;;x
+FRA_fascist_dictatorship;New Frankish Empire;;;;;;;;;;;;;x
+ALL;Allardia;;;;;;;;;;;;;;x
+ALL_colonial_company;Territory of Allardia;;;;;;;;;;;;;;x
+ALL_dominion;Territory of Allardia;;;;;;;;;;;;;;x
+ALL_ADJ;Allardian;;;;;;;;;;;;;;;x
+CRG;Carolingia;;;;;;;;;;;;;;x
+CRG_colonial_company;Lower Dominion of Carolingia;;;;;;;;;;;;;;x
+CRG_dominion;Lower Dominion of Carolingia;;;;;;;;;;;;;;x
+CRG_ADJ;Carolingian;;;;;;;;;;;;;;;;x
+RAV;Ravenne;;;;;;;;;;;;;;;;;x
+RAV_colonial_company;Lower Dominion of Ravenne;;;;;;;;;;;;x
+RAV_dominion;Lower Dominion of Ravenne;;;;;;;;;;;x
+RAV_ADJ:Ravennee;;;;;;;;;;;;;;;;;;;;x
+REM;Remigia;;;;;;;;;;;;;;;;;;x
+REM_colonial_company;Dominion of Remigia;;;;;;;;;;;x
+REM_dominion;Dominion of Remigia;;;;;;;;;;;;x
+REM_ADJ;Remigian;;;;;;;;;;;;;;;;;;;;;x

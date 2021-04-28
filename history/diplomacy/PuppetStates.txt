@@ -267,3 +267,31 @@ vassal = {
 	# start_date = 1861.1.1
 	# end_date = 1936.1.1
 # }
+
+substate = {
+	first = FRA
+	second = REM
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = FRA
+	second = ALL
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = FRA
+	second = CRG
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}
+
+substate = {
+	first = FRA
+	second = RAV
+	start_date = 1835.1.1
+	end_date = 1936.1.1
+}

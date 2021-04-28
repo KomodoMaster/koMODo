@@ -1,0 +1,60 @@
+political_decisions = {
+	
+#	form_belgica = {
+#		picture = lowlands
+#		potential = {
+#			OR = {
+#			tag = LBG
+#			tag = BRB
+#			tag = ANW
+#			tag = HLL
+#			tag = THP
+#			tag = HIN
+#			tag = LUX
+#			has_country_flag = greater_flanders
+#			}
+#			NOT = {
+#				has_global_flag = belgica_formed
+#			}
+#		}
+#		
+#		allow = {
+#		}
+#		
+#		effect = {
+#			set_global_flag = belgica_formed
+#		}
+#	}
+	
+	claim_greater_flanders = {
+		potential = {
+			tag = FLA
+			tag = BRB
+			tag = LBG
+			NOT = {
+				has_country_flag = greater_flanders
+			}
+		}
+		
+		allow = {
+			state_n_government = 1
+			war_policy = jingoism
+		}
+		
+		effect = {
+			prestige = 15
+			FLA_387 = {
+				add_core = THIS
+			}
+			BRB_387 = {
+				add_core = THIS
+			}
+		}
+	}
+	
+#	form_wallonia = {
+#		picture = wallonia
+#		potential = {
+#		ai = NO
+#		}
+#}

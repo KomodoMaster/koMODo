@@ -1,9 +1,9 @@
 trade_goods = fish
 naval_base = 1
 life_rating = 35
-owner = NSW
-controller = NSW
-add_core = NSW
+owner = CRG
+controller = CRG
+add_core = CRG
 party_loyalty = {
 	ideology = conservative
 	loyalty_value = 5

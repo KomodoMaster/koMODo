@@ -1,6 +1,6 @@
-owner = NSW
-controller = NSW
-add_core = NSW
+add_core = RAV
+owner = RAV
+controller = RAV
 trade_goods = timber
 life_rating = 35
 

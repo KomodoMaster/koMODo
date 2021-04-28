@@ -1,6 +1,6 @@
-owner = NSW
-controller = NSW
-add_core = NSW
+owner = CRG
+controller = CRG
+add_core = CRG
 trade_goods = tobacco
 life_rating = 35
 

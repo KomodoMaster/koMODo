@@ -1,3 +1,6 @@
+owner = REM
+controller = REM
+add_core = REM
 trade_goods = cattle
 life_rating = 38
 colonial = 2

@@ -1,6 +1,6 @@
-owner = NSU
-controller = NSU
-add_core = NSU
+owner = CRG
+controller = CRG
+add_core = CRG
 trade_goods = timber
 life_rating = 35
 

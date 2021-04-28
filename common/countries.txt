@@ -5,6 +5,9 @@ REB 	= "countries/rebels.txt"
 
 ##koMODo
 
+#Western Europe
+
+FRA		= "countries/Francia.txt"
 
 #Russia and Ruthenia
 
@@ -21,6 +24,10 @@ TVR     ="countries/Tovarland.txt"
 NSU		="countries/New Suomi.txt"
 NSW		="countries/Nya Svea Rike.txt"
 BLK     ="countries/Baleakia.txt"
+ALL     ="countries/Allardia.txt"
+REM     ="countries/Remigia.txt"
+CRG 	="countries/Carolingia.txt"
+RAV		="countries/Ravenne.txt"
 
 #Eastern Europe
 TEU		="countries/Teutonic Order.txt"
@@ -42,9 +49,11 @@ FRI     ="countries/Frisia.txt"
 THP     ="countries/The Principality.txt"
 EUP     ="countries/Eupen-Malmedy.txt"
 HIN     ="countries/Hainaut.txt"
+NET		="countries/Netherlands.txt"
+LUX		="countries/Luxemburg.txt"
 
 #Germany
-SLZ		= "countries/Salzburg.txt"
+SLZ		="countries/Salzburg.txt"
 
 ##HPM
 PNK		="countries/Pontianak.txt"
@@ -384,7 +393,6 @@ HEK		= "countries/Hesse-Kassel.txt"
 HOL		= "countries/Holstein.txt"
 LIP		= "countries/Lippe-Detmold.txt"
 LUB		= "countries/Lubeck.txt"
-LUX		= "countries/Luxemburg.txt"
 MEC		= "countries/Mecklenburg.txt"
 MEI		= "countries/Saxe-Meiningen.txt"
 NAS		= "countries/Nassau.txt"
@@ -577,7 +585,6 @@ NZL		="countries/New Zealand.txt"
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
-FRA		= "countries/France.txt"
 PRU		= "countries/Prussia.txt"
 GER		= "countries/Germany.txt"
 AUS		= "countries/Austria.txt"

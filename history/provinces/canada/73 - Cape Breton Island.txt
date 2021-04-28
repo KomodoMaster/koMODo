@@ -1,6 +1,6 @@
-owner = NSU
-controller = NSU
-add_core = NSU
+owner = REM
+controller = REM
+add_core = REM
 trade_goods = coal
 life_rating = 31
 colonial = 2
