@@ -3376,3 +3376,10 @@ REM;Remigia;;;;;;;;;;;;;;;;;;x
 REM_colonial_company;Dominion of Remigia;;;;;;;;;;;x
 REM_dominion;Dominion of Remigia;;;;;;;;;;;;x
 REM_ADJ;Remigian;;;;;;;;;;;;;;;;;;;;;x
+DIA;Dian;;;;;;;;;;;;;;;;x
+DIA_ADJ;Dianese;;;;;;;;;;;;;;;;;x
+DIA_absolute_monarchy;Dianese Kingdom;;;;;;;;;;;;;;x
+DIA_prussian_constitutionalism;Dianese Kingdom;;;;;;;;;;;;;;;;x
+DIA_hms_government;;;;;;;;;;;;;;;;x
+DIA_democracy;Dian Federation;;;;;;;;;;;;x
+DIA_presidental_dictatorship;;;;;;;;;;;x

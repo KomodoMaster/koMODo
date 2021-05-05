@@ -1,0 +1,24 @@
+name = "Fate of Burma"
+
+1834.4.3 = {
+	add_attacker = DIA
+	add_attacker = SHA
+	add_defender = BUR
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = DIA
+		receiver = BUR
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = BUR
+		receiver = DIA
+	}
+
+}

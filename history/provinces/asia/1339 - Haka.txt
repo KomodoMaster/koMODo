@@ -1,6 +1,6 @@
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = DIA
+controller = DIA
+add_core = DIA
 add_core = KCH
 trade_goods = fruit
 life_rating = 35

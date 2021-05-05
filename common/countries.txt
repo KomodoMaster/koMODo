@@ -11,8 +11,9 @@ FRA		= "countries/Francia.txt"
 
 #Russia and Ruthenia
 
-#Indonesia
+#South East Asia
 MJA     ="countries/Majapahit.txt"
+DIA     ="countries/Dian.txt"
 
 #Italy
 GEN     ="countries/Genoa.txt"

@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = DIA
+controller = DIA
+add_core = DIA
 trade_goods = wool
 life_rating = 35
