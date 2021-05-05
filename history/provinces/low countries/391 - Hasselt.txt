@@ -1,6 +1,6 @@
-owner = BRB
-controller = BRB
-add_core = BRB
+owner = LBG
+controller = LBG
+add_core = LBG
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

@@ -191,7 +191,7 @@ FLA_387 = { 388 389 390 } #Vlaanderen
 
 HIN_394 = { 393 394 392 395 396 } #Wallonia
 
-BRB_387 = { 387 391 379 380 381 } #Brabant
+BRB_387 = { 387 391 379 380 381 3324 } #Brabant
 
 LUX_397 = { 397 398 } #Luxemburg
 

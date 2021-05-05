@@ -407,7 +407,7 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 62175
+		size = 28175
 	}
 
 }
@@ -841,6 +841,40 @@
 		culture = north_german
 		religion = protestant
 		size = 8500
+	}
+
+}
+
+#Beringen (272000/34000 POPS)
+3324 = {
+	aristocrats = {
+		culture = flemish
+		religion = catholic
+		size = 650
+	}
+
+	clergymen = {
+		culture = flemish
+		religion = catholic
+		size = 475
+	}
+
+	artisans = {
+		culture = flemish
+		religion = catholic
+		size = 3700
+	}
+
+	soldiers = {
+		culture = flemish
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = flemish
+		religion = catholic
+		size = 28300
 	}
 
 }
