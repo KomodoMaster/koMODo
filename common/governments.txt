@@ -38,7 +38,18 @@ fascist_dictatorship = {
 	appoint_ruling_party = yes
 	flagType = fascist
 }
- 
+
+colonial_company = {
+	#which ideology of parties.
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+	
+	election = no
+	appoint_ruling_party = yes
+} 
+
 absolute_monarchy = {
 	liberal = yes
 	conservative = yes

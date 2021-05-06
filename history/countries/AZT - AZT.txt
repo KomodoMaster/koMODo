@@ -39,13 +39,12 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = MEX_conservative
-last_election = 1835.1.28
+ruling_party = AZT_conservative
 upper_house = {
 	fascist = 0
-	liberal = 25
+	liberal = 13
 	conservative = 63
-	reactionary = 12
+	reactionary = 24
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
