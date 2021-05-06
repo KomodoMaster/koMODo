@@ -1,0 +1,247 @@
+army = {
+	name = "1ere Armee"
+	location = 438
+	regiment = {
+		name= "1.1ere Division d'Infanterie"
+		type = infantry
+		home = 438
+	}
+
+	regiment = {
+		name= "2.1ere Division d'Infanterie"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "3.1ere Division d'Infanterie"
+		type = infantry
+		home = 401
+	}
+
+	regiment = {
+		name= "1.2eme Division d'Infanterie"
+		type = infantry
+		home = 430
+	}
+
+	regiment = {
+		name= "2.2eme Division d'Infanterie"
+		type = hussar
+		home = 2570
+	}
+
+	regiment = {
+		name= "3.2eme Division d'Infanterie"
+		type = artillery
+		home = 404
+	}
+
+	regiment = {
+		name= "1.3eme Division d'Infanterie"
+		type = artillery
+		home = 402
+	}
+
+	regiment = {
+		name= "2.3eme Division d'Infanterie"
+		type = artillery
+		home = 403
+	}
+
+	regiment = {
+		name= "3.3eme Division d'Infanterie"
+		type = artillery
+		home = 399
+	}
+		regiment = {
+		name= "3.3eme Division d'Infanterie"
+		type = artillery
+		home = 399
+	}}
+	
+army = {
+	name = "2ere Armee"
+	location = 447
+
+
+	regiment = {
+		name= "4.1eme Division d'Cavalerie"
+		type = hussar
+		home = 458
+	}
+
+	regiment = {
+		name= "4.2eme Division d'Infanterie"
+		type = infantry
+		home = 457
+	}
+
+	regiment = {
+		name= "4.3eme Division d'Infanterie"
+		type = infantry
+		home = 418
+	}
+
+	regiment = {
+		name= "4.4eme Division d'Infanterie"
+		type = infantry
+		home = 406
+	}
+	regiment = {
+		name= "4.5eme Division d'Infanterie"
+		type = infantry
+		home = 448
+	}
+	regiment = {
+		name= "5.1eme Division d'Artillerie"
+		type = artillery
+		home = 449
+	}
+	regiment = {
+		name= "5.2eme Division d'Artillerie"
+		type = artillery
+		home = 452
+	}
+	regiment = {
+		name= "5.3eme Division d'Artillerie"
+		type = artillery
+		home = 462
+	}
+	regiment = {
+		name= "5.4eme Division d'Artillerie"
+		type = artillery
+		home = 463
+	}
+	regiment = {
+		name= "5.5eme Division d'Artillerie"
+		type = artillery
+		home = 455
+	}
+
+
+}
+
+army = {
+	name = "3ere Armee"
+	location = 402
+
+
+	regiment = {
+		name= "4.1eme Division d'Cavalerie"
+		type = hussar
+		home = 415
+	}
+
+	regiment = {
+		name= "4.2eme Division d'Infanterie"
+		type = infantry
+		home = 400
+	}
+
+	regiment = {
+		name= "4.3eme Division d'Infanterie"
+		type = infantry
+		home = 416
+	}
+
+	regiment = {
+		name= "4.4eme Division d'Infanterie"
+		type = infantry
+		home = 408
+	}
+	regiment = {
+		name= "4.5eme Division d'Infanterie"
+		type = infantry
+		home = 427
+	}
+	regiment = {
+		name= "5.1eme Division d'Artillerie"
+		type = artillery
+		home = 425
+	}
+	regiment = {
+		name= "5.2eme Division d'Artillerie"
+		type = artillery
+		home = 426
+	}
+	regiment = {
+		name= "5.3eme Division d'Artillerie"
+		type = artillery
+		home = 436
+	}
+	regiment = {
+		name= "5.4eme Division d'Artillerie"
+		type = artillery
+		home = 439
+	}
+	regiment = {
+		name= "5.5eme Division d'Artillerie"
+		type = artillery
+		home = 446
+	}
+
+
+}
+
+army = {
+	name = "4ere Armee"
+	location = 405
+
+
+	regiment = {
+		name= "4.1eme Division d'Cavalerie"
+		type = hussar
+		home = 459
+	}
+
+	regiment = {
+		name= "4.2eme Division d'Infanterie"
+		type = infantry
+		home = 431
+	}
+
+	regiment = {
+		name= "4.3eme Division d'Infanterie"
+		type = infantry
+		home = 456
+	}
+
+	regiment = {
+		name= "4.4eme Division d'Infanterie"
+		type = infantry
+		home = 417
+	}
+	regiment = {
+		name= "4.5eme Division d'Infanterie"
+		type = infantry
+		home = 440
+	}
+	regiment = {
+		name= "5.1eme Division d'Artillerie"
+		type = artillery
+		home = 434
+	}
+	regiment = {
+		name= "5.2eme Division d'Artillerie"
+		type = artillery
+		home = 444
+	}
+	regiment = {
+		name= "5.3eme Division d'Artillerie"
+		type = artillery
+		home = 442
+	}
+	regiment = {
+		name= "5.4eme Division d'Artillerie"
+		type = artillery
+		home = 447
+	}
+	regiment = {
+		name= "5.5eme Division d'Artillerie"
+		type = artillery
+		home = 451
+	}
+
+
+}
